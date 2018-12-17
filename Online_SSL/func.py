@@ -187,7 +187,7 @@ class incremental_k_centers:
         # choose the experiment parameter
         ###################################
         eps = 0
-        var = 10000
+        var = 300
         k = 10
         ###################################
         ###################################
